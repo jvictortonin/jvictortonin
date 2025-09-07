@@ -2,8 +2,6 @@
 
 I'm a **Python enthusiast and Data Science learner**, passionate about analyzing data and building impactful projects. Always exploring new challenges and learning opportunities.  
 
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
 ---
 
 ## 🎓 Education
@@ -17,26 +15,17 @@ I'm a **Python enthusiast and Data Science learner**, passionate about analyzing
 ## 💻 Skills & Technologies
 
 **Programming & Data Analysis**  
-<div align="left">
-  <p>Python</p>
-  <img src="https://img.shields.io/badge/Python-90%-blue?style=for-the-badge">
-  <p>Pandas</p>
-  <img src="https://img.shields.io/badge/Pandas-85%-brightgreen?style=for-the-badge">
-  <p>NumPy</p>
-  <img src="https://img.shields.io/badge/NumPy-80%-yellow?style=for-the-badge">
-  <p>Matplotlib & Seaborn</p>
-  <img src="https://img.shields.io/badge/Matplotlib/Seaborn-75%-orange?style=for-the-badge">
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F3766E?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-77AADD?style=for-the-badge&logo=seaborn&logoColor=white)
 
 **Databases & Tools**  
-<div align="left">
-  <p>SQL</p>
-  <img src="https://img.shields.io/badge/SQL-70%-red?style=for-the-badge">
-  <p>Git & GitHub</p>
-  <img src="https://img.shields.io/badge/Git/GitHub-85%-black?style=for-the-badge">
-  <p>Jupyter Notebook</p>
-  <img src="https://img.shields.io/badge/Jupyter-80%-orange?style=for-the-badge">
-</div>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -44,13 +33,13 @@ I'm a **Python enthusiast and Data Science learner**, passionate about analyzing
 - **[EDA Titanic]** – Exploratory Data Analysis project using Python and Pandas.  
 
 
-> Check all my projects on my [GitHub](https://github.com/JoaoVictorTonin?tab=repositories)
+> Check all my projects on my [GitHub](https://github.com/jvictortonin?tab=repositories)
 
 ---
 
 ## 📊 GitHub Stats
-![João Victor Tonin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorTonin&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorTonin&layout=compact&theme=radical)
+![João Victor Tonin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvictortonin&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvictortonin&layout=compact&theme=radical)
 
 ---
 
@@ -59,11 +48,6 @@ I'm a **Python enthusiast and Data Science learner**, passionate about analyzing
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
-
-## ⚡ Fun Fact
-I love **learning new technologies**, contributing to **open source**, and **turning data into insights**.  
-
-![Motivation GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 
 Update profile README
